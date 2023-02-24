@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# battleships-game
+javaScript HTML and CSS 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to another JavaScript Game walkthrough! In this game, we learn not only how to make the popular retro game battleships, but we team up with YouTubers codeSTACKr and Web Dev Simplified  in order to make it multiplayer and style it to the MAX!
 
-## Available Scripts
+Watch the full video here: https://youtu.be/U64vIhh0TyM
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+In this walkthrough we will:
+- make 5 draggable ships
+- rotate the ships prior to dragging
+- make the computer take random goes
+- display results based on who has sunk whos ship
+- display the winner
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This tutorial will be in pure JavaScript, so no canvas will be used.
 
-### `npm test`
+We will not be focusing too much on the styling, this video will be all about the logic of the game. Please watch the next two videos in the series to have a completed multiplayer version that is styled.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+After watching this video, please head over to:
+Codestackr to make it multiplayer: https://youtu.be/TpAwggQJPUQ
+Web Dev Simplified for the styling: https://youtu.be/G6JTM-zt-dQ
 
-### `npm run build`
+### [Click here for a live Demo of the final game](http://battleship.tech/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Thanks for watching! If you liked watching this video, please do hit the  Subscribe or Like button so I know to make more!
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### MIT Licence
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Copyright (c) 2020 Ania Kubow
 
-### `npm run eject`
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software. 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+*Translation: Ofcourse you can use this for you project! Just make sure to say where you got this from :)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+OR OTHER DEALINGS IN THE SOFTWARE.
